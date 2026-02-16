@@ -1,0 +1,108 @@
+Validation Error: {
+    "error": "Missing required fields"
+}
+Validation Error: {
+    "error": "Missing required fields"
+}
+Validation Error: {
+    "error": "Missing required fields"
+}
+Payment Attempt: 2025-07-10T18:19:33+00:00
+Payment Attempt: 2025-07-10T18:21:57+00:00
+Payment Attempt: 2025-07-10T18:21:57+00:00
+Payment Attempt: 2025-07-11T00:27:56+00:00
+Payment Attempt: 2025-07-11T00:28:09+00:00
+Payment Attempt: 2025-07-11T00:31:28+00:00
+Payment Attempt: 2025-07-11T00:33:35+00:00
+Payment Attempt: 2025-07-11T00:37:43+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/002030422/receive/mobilemoney?CustomerName=Syca%20Jay%20Aba&CustomerMsisdn=233539893025&Amount=1&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&CustomerEmail=jayes%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=cac7482f-4737-4bda-b2b0-8ea02528c8a6` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T00:40:01+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Syca%20Jay%20Aba&CustomerMsisdn=233539893025&Amount=1&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&CustomerEmail=jayes%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=cac7482f-4737-4bda-b2b0-8ea02528c8a6` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T00:48:20+00:00
+Validation Error: {
+    "error": "Missing required fields"
+}
+Payment Attempt: 2025-07-11T00:50:44+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Syca%20Jay%20Aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=test-1234` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T12:41:23+00:00
+Payment Attempt: 2025-07-11T12:41:32+00:00
+Payment Attempt: 2025-07-11T12:41:35+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=jay%20syca%20aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes52%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=0c5de7be-2d5d-43b6-b81b-82905dcb4f89` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T12:41:38+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=jay%20syca%20aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes52%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=7b20ccbf-a829-4580-9871-b19be9833fc1` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=jay%20syca%20aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes52%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=4839f288-6a26-495c-b427-022c8437d63e` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=jay%20syca%20aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes52%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=96e23e2f-44ba-4918-9ece-ddcde2895533` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T12:50:27+00:00
+Payment Attempt: 2025-07-11T12:50:34+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Nana%20Aba%20Jay&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes12%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=51379777-6d16-46f8-aed2-a605c9c5a0c6` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Nana%20Aba%20Jay&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes12%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=cc4a558d-8656-43a7-b0b0-38baea0b67f8` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Payment Attempt: 2025-07-11T13:28:42+00:00
+Payment Attempt: 2025-07-11T13:28:47+00:00
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Jay%20sy%20Aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes12%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=44bab6ea-2973-4998-9317-0d193de9c6b6` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response
+Error: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Jay%20sy%20Aba&CustomerMsisdn=233539893025&Amount=10&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Sunday%20Service&Channel=mtn-gh&CustomerEmail=jayes12%40gmail.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=12f53d87-24cb-4467-b70c-fe2b90319df2` resulted in a `520 ` response:
+error code: 520
+
+Error Code: 520
+File: /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php
+Line: 113
+Raw Response: No response

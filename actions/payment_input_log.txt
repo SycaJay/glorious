@@ -1,0 +1,160 @@
+{
+    "amount": "0.10",
+    "customerPhoneNumber": "0202260756",
+    "clientReference": "f450eeb7-9b84-48bc-a84b-76138ce7464f",
+    "purchaseDescription": "TOTA",
+    "customerName": "Syca Jay Jess",
+    "customerEmail": "jessqueens52@gmail.com"
+}
+{
+    "amount": "0.10",
+    "customerPhoneNumber": "233202260756",
+    "clientReference": "c4f5f3f1-abf1-451b-abdf-834f3d637a84",
+    "purchaseDescription": "TOTA",
+    "customerName": "Syca Jay Jess",
+    "customerEmail": "jessqueens52@gmail.com"
+}
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233202260756","clientReference":"4d0408e5-fdbf-457e-8b99-06fe7fc3a6cb","purchaseDescription":"Sunday Service","customerName":"Syca Jay Jess","customerEmail":"jessqueens52@gmail.com"}
+Raw Input: 
+Raw Input: 
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233202260756","clientReference":"fab8df3a-685c-43db-9a93-0022990fe35b","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: 
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233539893025","clientReference":"300c8ea1-f723-4df1-9a80-bf0ed3964fbc","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233539893025","clientReference":"953ede1e-5ef4-4dc9-b343-a81a8470df90","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233539893025","clientReference":"c1de1bbe-2530-428a-b6c7-8b61ca9b46f5","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {"amount":"0.10","customerPhoneNumber":"233539893025","clientReference":"651b35ca-c669-49a6-81f7-726d83307ac8","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {"amount":"1.00","customerPhoneNumber":"0539893025","clientReference":"37f09bc6-bd19-468d-8ad9-b71c750ebeeb","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233202260756","clientReference":"2c9d52e7-a9eb-4ac7-ab99-0d38767f22c1","purchaseDescription":"Sunday Service","customerName":"Syca Jay Aba","customerEmail":"jayes@gmail.com"}
+Raw Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "233539893025",
+  "clientReference": "651b35ca-c609-49a6-81f7-726d83307ac8",
+  "purchaseDescription": "Sunday Service",
+  "customerName": "Syca Jay Aba",
+  "customerEmail": "jayes@gmail.com"
+}
+Raw Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "233539893025",
+  "clientReference": "cac7482f-4737-4bda-b2b0-8ea02528c8a6",
+  "purchaseDescription": "Sunday Service",
+  "customerName": "Syca Jay Aba",
+  "customerEmail": "jayes@gmail.com"
+}
+Raw Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "233539893025",
+  "clientReference": "cac7482f-4737-4bda-b2b0-8ea02528c8a6",
+  "purchaseDescription": "Sunday Service",
+  "customerName": "Syca Jay Aba",
+  "customerEmail": "jayes@gmail.com"
+}
+Raw Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "233539893025",
+  "clientReference": "cac7482f-4737-4bda-b2b0-8ea02528c8a6",
+  "purchaseDescription": "Sunday Service",
+  "customerName": "Syca Jay Aba",
+  "customerEmail": "jayes@gmail.com"
+}
+Raw Input: {
+  "CustomerName": "Syca Jay Aba",
+  "CustomerMsisdn": "233539893025",
+  "Amount": "1.00",
+  "Description": "Sunday Service",
+  "ClientReference": "test-1234",
+  "CustomerEmail": "jayes@gmail.com",
+  "Channel": "mtn-gh",
+  "PrimaryCallbackURL": "https://gloriousvisionstvplus.com/actions/payment_callback.php"
+}
+
+Raw Input: {
+  "amount": "1.00",
+  "customerPhoneNumber": "233539893025",
+  "customerName": "Syca Jay Aba",
+  "customerEmail": "jayes@gmail.com",
+  "purchaseDescription": "Sunday Service",
+  "clientReference": "test-1234",
+  "channel": "mtn-gh"
+}
+
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"0c5de7be-2d5d-43b6-b81b-82905dcb4f89","purchaseDescription":"Sunday Service","customerName":"jay syca aba","customerEmail":"jayes52@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"7b20ccbf-a829-4580-9871-b19be9833fc1","purchaseDescription":"Sunday Service","customerName":"jay syca aba","customerEmail":"jayes52@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"4839f288-6a26-495c-b427-022c8437d63e","purchaseDescription":"Sunday Service","customerName":"jay syca aba","customerEmail":"jayes52@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"96e23e2f-44ba-4918-9ece-ddcde2895533","purchaseDescription":"Sunday Service","customerName":"jay syca aba","customerEmail":"jayes52@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"51379777-6d16-46f8-aed2-a605c9c5a0c6","purchaseDescription":"Sunday Service","customerName":"Nana Aba Jay","customerEmail":"jayes12@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 216
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"cc4a558d-8656-43a7-b0b0-38baea0b67f8","purchaseDescription":"Sunday Service","customerName":"Nana Aba Jay","customerEmail":"jayes12@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 214
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"44bab6ea-2973-4998-9317-0d193de9c6b6","purchaseDescription":"Sunday Service","customerName":"Jay sy Aba","customerEmail":"jayes12@gmail.com"}
+Headers: Array
+(
+    [User-Agent] => Dart/3.8 (dart:io)
+    [Content-Type] => application/json; charset=utf-8
+    [Accept-Encoding] => gzip
+    [Content-Length] => 214
+    [Host] => gloriousvisionstvplus.com
+)
+
+Raw Input: {"amount":"1.00","customerPhoneNumber":"233539893025","clientReference":"12f53d87-24cb-4467-b70c-fe2b90319df2","purchaseDescription":"Sunday Service","customerName":"Jay sy Aba","customerEmail":"jayes12@gmail.com"}

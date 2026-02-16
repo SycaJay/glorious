@@ -1,0 +1,1498 @@
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x22c0560)
+> GET /transactions/2030422/status?clientReference=seed-68508b0959e0f HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:37:36 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x22c0560)
+> GET /transactions/2030422/status?clientReference=seed-68508b0959e0f HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:45:55 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x22c0560)
+> GET /transactions/2030422/status?clientReference=seed-686d3cce279a7 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:46:15 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x23c29b0)
+> GET /transactions/2030422/status?clientReference=seed-686d3cce279a7 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:46:20 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x22c0560)
+> GET /transactions/2030422/status?clientReference=seed-686d3cce279a7 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:46:21 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x23fba80)
+> GET /transactions//status?clientReference=seed-686d3e291582b HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:50:05 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x23fba80)
+> GET /transactions//status?clientReference=seed-686d3e2c465d5 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Tue, 08 Jul 2025 15:50:07 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x28c0650)
+> GET /transactions/2030422/status?clientReference=seed-686881f3879ba HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< date: Wed, 09 Jul 2025 16:55:50 GMT
+< content-type: application/json; charset=utf-8
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x28c0650)
+> GET /transactions/2030422/status?clientReference=seed-686881f3879ba HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< date: Wed, 09 Jul 2025 16:56:08 GMT
+< content-type: application/json; charset=utf-8
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x24cec80)
+> GET /transactions//status?clientReference=seed-6871c4297cd3e HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sat, 12 Jul 2025 02:10:50 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x24ceac0)
+> GET /transactions//status?clientReference=seed-6871c4f87f76f HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sat, 12 Jul 2025 02:14:17 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x328cde0)
+> GET /transactions//status?clientReference=seed-6871c955850c0 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sat, 12 Jul 2025 02:32:54 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x328e760)
+> GET /transactions//status?clientReference=seed-6871c957ae903 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sat, 12 Jul 2025 02:32:56 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2ace320)
+> GET /transactions//status?clientReference=seed-6878024789e81 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:49:28 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2b26a80)
+> GET /transactions//status?clientReference=seed-68780257760a0 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:49:44 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2ad92b0)
+> GET /transactions//status?clientReference=seed-6878025f10591 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:49:51 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2b189b0)
+> GET /transactions//status?clientReference=seed-687802606ee54 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:49:53 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x324dac0)
+> GET /transactions//status?clientReference=seed-687802660fada HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:49:58 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x31234c0)
+> GET /transactions//status?clientReference=seed-6878026d222fd HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 19:50:07 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1abdc90)
+> GET /transactions//status?clientReference=seed-6878279470197 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 16 Jul 2025 22:28:37 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x32b4da0)
+> GET /transactions//status?clientReference=seed-68797c01c7f17 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 17 Jul 2025 22:41:06 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.50.225.112:443...
+* Connected to api-txnstatus.hubtel.com (52.50.225.112) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1738c80)
+> GET /transactions//status?clientReference=seed-687994d7dad96 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Fri, 18 Jul 2025 00:27:04 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.17.96.219:443...
+* Connected to api-txnstatus.hubtel.com (52.17.96.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1dc0cd0)
+> GET /transactions//status?clientReference=seed-68799a13bc55e HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Fri, 18 Jul 2025 00:49:24 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.229.130.219:443...
+* Connected to api-txnstatus.hubtel.com (54.229.130.219) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2211c90)
+> GET /transactions//status?clientReference=seed-688faa7c4e416 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sun, 03 Aug 2025 18:29:17 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.74.172.207:443...
+* Connected to api-txnstatus.hubtel.com (54.74.172.207) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2e8dc90)
+> GET /transactions//status?clientReference=seed-68967169c4e11 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Fri, 08 Aug 2025 21:51:38 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.19.255.85:443...
+* Connected to api-txnstatus.hubtel.com (52.19.255.85) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1b55c80)
+> GET /transactions//status?clientReference=seed-689e449d3caa0 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 14 Aug 2025 20:18:38 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 108.129.59.117:443...
+* Connected to api-txnstatus.hubtel.com (108.129.59.117) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2d77cc0)
+> GET /transactions//status?clientReference=seed-68a778983552b HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 21 Aug 2025 19:50:49 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 108.129.59.117:443...
+* Connected to api-txnstatus.hubtel.com (108.129.59.117) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2c4d5c0)
+> GET /transactions//status?clientReference=seed-68a7789a36317 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 21 Aug 2025 19:50:51 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.214.213.183:443...
+* Connected to api-txnstatus.hubtel.com (52.214.213.183) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1e4bc10)
+> GET /transactions//status?clientReference=seed-68c580c556659 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sat, 13 Sep 2025 14:33:42 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.170.242.247:443...
+* Connected to api-txnstatus.hubtel.com (54.170.242.247) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2a36c00)
+> GET /transactions//status?clientReference=seed-68c83f18747cb HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Mon, 15 Sep 2025 16:30:17 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.170.242.247:443...
+* Connected to api-txnstatus.hubtel.com (54.170.242.247) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x31a5bf0)
+> GET /transactions//status?clientReference=seed-68c92e3b4d7e1 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Tue, 16 Sep 2025 09:30:36 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.170.242.247:443...
+* Connected to api-txnstatus.hubtel.com (54.170.242.247) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2862b00)
+> GET /transactions//status?clientReference=seed-68cc8c2183805 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 18 Sep 2025 22:48:02 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.212.33.157:443...
+* Connected to api-txnstatus.hubtel.com (52.212.33.157) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2039ad0)
+> GET /transactions//status?clientReference=seed-68cf52ee1dad3 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sun, 21 Sep 2025 01:20:47 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.154.196.56:443...
+* Connected to api-txnstatus.hubtel.com (54.154.196.56) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x261fc00)
+> GET /transactions//status?clientReference=seed-68d1952e14894 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Mon, 22 Sep 2025 18:27:59 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 54.154.196.56:443...
+* Connected to api-txnstatus.hubtel.com (54.154.196.56) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x261fb00)
+> GET /transactions//status?clientReference=seed-68d195a425616 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Mon, 22 Sep 2025 18:29:57 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.212.33.157:443...
+* Connected to api-txnstatus.hubtel.com (52.212.33.157) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2b7ec00)
+> GET /transactions//status?clientReference=seed-68d42afee4a2c HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Wed, 24 Sep 2025 17:31:43 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.212.33.157:443...
+* Connected to api-txnstatus.hubtel.com (52.212.33.157) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2205af0)
+> GET /transactions//status?clientReference=seed-68d5f2381f788 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Fri, 26 Sep 2025 01:54:01 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 34.249.164.25:443...
+* Connected to api-txnstatus.hubtel.com (34.249.164.25) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2b54b00)
+> GET /transactions//status?clientReference=seed-68dc3feb71923 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Tue, 30 Sep 2025 20:39:08 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 34.249.164.25:443...
+* Connected to api-txnstatus.hubtel.com (34.249.164.25) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2a25b00)
+> GET /transactions//status?clientReference=seed-68e57a1d8febd HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Tue, 07 Oct 2025 20:37:50 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.209.239.95:443...
+* Connected to api-txnstatus.hubtel.com (52.209.239.95) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Dec 16 00:00:00 2024 GMT
+*  expire date: Jan 15 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1854af0)
+> GET /transactions//status?clientReference=seed-68ed9684bd384 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Tue, 14 Oct 2025 00:17:09 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.214.225.122:443...
+* Connected to api-txnstatus.hubtel.com (52.214.225.122) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Nov 17 00:00:00 2025 GMT
+*  expire date: Dec 16 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x28f42a0)
+> GET /transactions//status?clientReference=seed-694c94e68a7e9 HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Thu, 25 Dec 2025 01:35:35 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 108.128.166.155:443...
+* Connected to api-txnstatus.hubtel.com (108.128.166.155) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Nov 17 00:00:00 2025 GMT
+*  expire date: Dec 16 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x200b260)
+> GET /transactions//status?clientReference=seed-694dfe30c86fe HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Fri, 26 Dec 2025 03:17:05 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+*   Trying 52.214.225.122:443...
+* Connected to api-txnstatus.hubtel.com (52.214.225.122) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Nov 17 00:00:00 2025 GMT
+*  expire date: Dec 16 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2ec8380)
+> GET /transactions//status?clientReference=seed-69511be59b8dc HTTP/2
+Host: api-txnstatus.hubtel.com
+authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+content-type: application/json
+accept: application/json
+cache-control: no-cache
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 401 
+< date: Sun, 28 Dec 2025 12:00:38 GMT
+< content-type: application/json
+< content-length: 98
+< server: Kestrel
+< request-context: appId=
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact
+* Host api-txnstatus.hubtel.com:443 was resolved.
+* IPv6: (none)
+* IPv4: 54.195.67.208, 3.255.35.83
+*   Trying 54.195.67.208:443...
+* ALPN: curl offers h2,http/1.1
+*  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / x25519 / RSASSA-PSS
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: CN=api-txnstatus.hubtel.com
+*  start date: Nov 17 00:00:00 2025 GMT
+*  expire date: Dec 16 23:59:59 2026 GMT
+*  subjectAltName: host "api-txnstatus.hubtel.com" matched cert's "api-txnstatus.hubtel.com"
+*  issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01
+*  SSL certificate verify ok.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 2: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+* Connected to api-txnstatus.hubtel.com (54.195.67.208) port 443
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://api-txnstatus.hubtel.com/transactions//status?clientReference=seed-6963d073b4521
+* [HTTP/2] [1] [:method: GET]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: api-txnstatus.hubtel.com]
+* [HTTP/2] [1] [:path: /transactions//status?clientReference=seed-6963d073b4521]
+* [HTTP/2] [1] [authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==]
+* [HTTP/2] [1] [content-type: application/json]
+* [HTTP/2] [1] [accept: application/json]
+* [HTTP/2] [1] [cache-control: no-cache]
+> GET /transactions//status?clientReference=seed-6963d073b4521 HTTP/2
+Host: api-txnstatus.hubtel.com
+Authorization: Basic ODZuMFpaTDo5YjU0ZDkzZWZhMjk0YzJmYWQzZTNmNWFhNTg3MGExOQ==
+Content-Type: application/json
+Accept: application/json
+Cache-Control: no-cache
+
+* Request completely sent off
+< HTTP/2 403 
+< server: awselb/2.0
+< date: Sun, 11 Jan 2026 16:31:49 GMT
+< content-type: text/html
+< content-length: 118
+< 
+* Connection #0 to host api-txnstatus.hubtel.com left intact

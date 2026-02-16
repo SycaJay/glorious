@@ -1,0 +1,4 @@
+Error executing payment: Undefined method [ clientReference] called.
+Error executing payment: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Test%20User&CustomerMsisdn=233202260756&Amount=1&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Test%20Payment&Channel=mtn-gh&CustomerEmail=test%40example.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=test-686fce298c45c` resulted in a `520 ` response:
+error code: 520
+

@@ -1,0 +1,10 @@
+{
+  "name": "glorious",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "scripts": {
+    "build:css": "tailwindcss -i tailwind-src.css -o assets/css/tailwind.css --minify"
+  }
+}

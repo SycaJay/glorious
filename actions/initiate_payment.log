@@ -1,0 +1,98 @@
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-123456789",
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Input: 
+Error: Missing or empty field: amount
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-123456789",
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-123456789",
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-123456789",
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Error: Duplicate reference detected server-side: test-123456789
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-987654321",
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-987654321", 
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Error: Duplicate reference detected server-side: test-987654321
+Input: {
+  "amount": "0.10",
+  "customerPhoneNumber": "0202260756",
+  "clientReference": "test-987564321", 
+  "purchaseDescription": "TOTA",
+  "customerName": "Maame Maku Laj",
+  "customerEmail": "lajmk76@gmail.com",
+  "channel": "mobile_money"
+}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/hu0p3d8wzoo2l30","access_code":"hu0p3d8wzoo2l30","reference":"test-987564321"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"c38d3d32-3a92-45c1-948c-f5eee035ef13","purchaseDescription":"TV Ministry","customerName":"Eli Maku Laj","customerEmail":"makulaj78@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/se8a38qe7netlwh","access_code":"se8a38qe7netlwh","reference":"c38d3d32-3a92-45c1-948c-f5eee035ef13"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"7abc341a-d2ac-4ecb-bd78-ca830d1755fc","purchaseDescription":"TV Ministry","customerName":"Maame Kay Jay","customerEmail":"kjay54@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/rm7c4ytz3nyw752","access_code":"rm7c4ytz3nyw752","reference":"7abc341a-d2ac-4ecb-bd78-ca830d1755fc"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"816c7492-5065-4000-9277-7d61aa353280","purchaseDescription":"TOTA","customerName":"Nana Baby Jay","customerEmail":"babynana@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/0w81afpsglyy78b","access_code":"0w81afpsglyy78b","reference":"816c7492-5065-4000-9277-7d61aa353280"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"838929d8-4ed5-4ea2-a72d-eb419a0c3c1e","purchaseDescription":"TOTA","customerName":"Nana Baby Jay","customerEmail":"babynana@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/4qc576rhd0uxfij","access_code":"4qc576rhd0uxfij","reference":"838929d8-4ed5-4ea2-a72d-eb419a0c3c1e"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"0d53bde3-98fd-41db-a07d-9a02e7b81c05","purchaseDescription":"TOTA","customerName":"Nana Baby Jay","customerEmail":"babynana@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/vrbo70djlonma21","access_code":"vrbo70djlonma21","reference":"0d53bde3-98fd-41db-a07d-9a02e7b81c05"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"df991876-20c4-42df-b3d7-be6eecdb0cfc","purchaseDescription":"TOTA","customerName":"Nana Baby Jay","customerEmail":"babynana@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/zs1inddxlegd39j","access_code":"zs1inddxlegd39j","reference":"df991876-20c4-42df-b3d7-be6eecdb0cfc"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"ef4c3966-95fc-4b04-ba66-b5b013b69f3d","purchaseDescription":"TOTA","customerName":"Nana Baby Jay","customerEmail":"babynana@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/pkrqlon7vukaqi2","access_code":"pkrqlon7vukaqi2","reference":"ef4c3966-95fc-4b04-ba66-b5b013b69f3d"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"5af753ff-39d1-4a8b-96e7-8e27a5c1986d","purchaseDescription":"Sunday Service","customerName":"Sis Aba Jay","customerEmail":"jaytu@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/2b2cfznzsrm0vvg","access_code":"2b2cfznzsrm0vvg","reference":"5af753ff-39d1-4a8b-96e7-8e27a5c1986d"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"ae9e19e2-4b5a-4266-9181-c8070aae66fd","purchaseDescription":"TOTA","customerName":"Eliana Baby Maku","customerEmail":"elibaby59@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/2edh95oiimt9rx1","access_code":"2edh95oiimt9rx1","reference":"ae9e19e2-4b5a-4266-9181-c8070aae66fd"}}
+Input: {
+  "amount": "1000",
+  "customerPhoneNumber": "09012345678",
+  "clientReference": "unique_ref_103456",
+  "purchaseDescription": "Test Payment",
+  "customerName": "John Doe",
+  "customerEmail": "john.doe@example.com",
+  "channel": "mobile_money"
+}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/gbonhe7e74z6395","access_code":"gbonhe7e74z6395","reference":"unique_ref_103456"}}
+Input: {"amount":"0.10","customerPhoneNumber":"0202260756","clientReference":"99595b98-2721-42ac-8a46-ffba5a277250","purchaseDescription":"TV Ministry","customerName":"Liora Baby Laj","customerEmail":"liolaj89@gmail.com","channel":"mobile_money"}
+Paystack Response: {"status":true,"message":"Authorization URL created","data":{"authorization_url":"https://checkout.paystack.com/nn3dpozc8ze4v02","access_code":"nn3dpozc8ze4v02","reference":"99595b98-2721-42ac-8a46-ffba5a277250"}}

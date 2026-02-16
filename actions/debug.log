@@ -1,0 +1,779 @@
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/56e2790cddbf4c7e884c9d8f6836cde0
+            [checkoutId] => 56e2790cddbf4c7e884c9d8f6836cde0
+            [clientReference] => seed-6850722a406c7
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/56e2790cddbf4c7e884c9d8f6836cde0/direct
+        )
+
+)
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/dac16eab19374b2f8f372ee0a74a0483
+            [checkoutId] => dac16eab19374b2f8f372ee0a74a0483
+            [clientReference] => seed-685077b6b2182
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/dac16eab19374b2f8f372ee0a74a0483/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/28cd30f9314044e39b184dd6ded25d50
+            [checkoutId] => 28cd30f9314044e39b184dd6ded25d50
+            [clientReference] => seed-68507d4411113
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/28cd30f9314044e39b184dd6ded25d50/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/eb9e0e83b94140c8b272fe6e641ee140
+            [checkoutId] => eb9e0e83b94140c8b272fe6e641ee140
+            [clientReference] => seed-6850812acbb8b
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/eb9e0e83b94140c8b272fe6e641ee140/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/47b6fbd2433a4c798ddc9305ec42c56d
+            [checkoutId] => 47b6fbd2433a4c798ddc9305ec42c56d
+            [clientReference] => seed-68508b0959e0f
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/47b6fbd2433a4c798ddc9305ec42c56d/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/4b6c3535e0404fe7802e20fbc56e2f9d
+            [checkoutId] => 4b6c3535e0404fe7802e20fbc56e2f9d
+            [clientReference] => seed-68517d8f99cac
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/4b6c3535e0404fe7802e20fbc56e2f9d/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/90f6c148717948d4b5dd0fac60e504b5
+            [checkoutId] => 90f6c148717948d4b5dd0fac60e504b5
+            [clientReference] => seed-685181f22ea3d
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/90f6c148717948d4b5dd0fac60e504b5/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/22156ff67d954c2ab0109f2072422d60
+            [checkoutId] => 22156ff67d954c2ab0109f2072422d60
+            [clientReference] => seed-686881f3879ba
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/22156ff67d954c2ab0109f2072422d60/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/c44f926a6b0b418bae8475a6abe7d394
+            [checkoutId] => c44f926a6b0b418bae8475a6abe7d394
+            [clientReference] => seed-686d2a5f96eea
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/c44f926a6b0b418bae8475a6abe7d394/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/11f2f266d363485da88c103e3eb851e3
+            [checkoutId] => 11f2f266d363485da88c103e3eb851e3
+            [clientReference] => seed-686d2b598a299
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/11f2f266d363485da88c103e3eb851e3/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/0bd2034e037f40aebe6881781daf1762
+            [checkoutId] => 0bd2034e037f40aebe6881781daf1762
+            [clientReference] => seed-686d2d6c7d4fa
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/0bd2034e037f40aebe6881781daf1762/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/254c5546ee7a4d408444e9804665f828
+            [checkoutId] => 254c5546ee7a4d408444e9804665f828
+            [clientReference] => seed-686d2e0433383
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/254c5546ee7a4d408444e9804665f828/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/27bd3a7d2fad406597fd9003c0011b54
+            [checkoutId] => 27bd3a7d2fad406597fd9003c0011b54
+            [clientReference] => seed-686d39619cba6
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/27bd3a7d2fad406597fd9003c0011b54/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/7a1e4f675150475ca94afac644c34ce9
+            [checkoutId] => 7a1e4f675150475ca94afac644c34ce9
+            [clientReference] => seed-686d3b8c93c33
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/7a1e4f675150475ca94afac644c34ce9/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/71dafe905f924ffb92440ddc85a44d32
+            [checkoutId] => 71dafe905f924ffb92440ddc85a44d32
+            [clientReference] => seed-686d3cce279a7
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/71dafe905f924ffb92440ddc85a44d32/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/085fe33fa810458a88989f0fdae2628e
+            [checkoutId] => 085fe33fa810458a88989f0fdae2628e
+            [clientReference] => seed-686d3e291582b
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/085fe33fa810458a88989f0fdae2628e/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/3576376a89704ed380b432ad28ff9fb2
+            [checkoutId] => 3576376a89704ed380b432ad28ff9fb2
+            [clientReference] => seed-686d3e2c465d5
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/3576376a89704ed380b432ad28ff9fb2/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/4175ee2ac0444662a1541df12bfcf3bc
+            [checkoutId] => 4175ee2ac0444662a1541df12bfcf3bc
+            [clientReference] => seed-6871c4297cd3e
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/4175ee2ac0444662a1541df12bfcf3bc/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/142e14d94dc74abbb5af86ec75317494
+            [checkoutId] => 142e14d94dc74abbb5af86ec75317494
+            [clientReference] => seed-6871c4f87f76f
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/142e14d94dc74abbb5af86ec75317494/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/d87cfe8671cd4e0dab5e707c696ad494
+            [checkoutId] => d87cfe8671cd4e0dab5e707c696ad494
+            [clientReference] => seed-6871c955850c0
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/d87cfe8671cd4e0dab5e707c696ad494/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/e2c0681bff3f47a3b54f52e1099d5154
+            [checkoutId] => e2c0681bff3f47a3b54f52e1099d5154
+            [clientReference] => seed-6871c957ae903
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/e2c0681bff3f47a3b54f52e1099d5154/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/a1737a751599453d977aba492e006fa5
+            [checkoutId] => a1737a751599453d977aba492e006fa5
+            [clientReference] => seed-6878024789e81
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/a1737a751599453d977aba492e006fa5/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/efbc2bb51ede4521acfcbc6b7c7ada64
+            [checkoutId] => efbc2bb51ede4521acfcbc6b7c7ada64
+            [clientReference] => seed-68780257760a0
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/efbc2bb51ede4521acfcbc6b7c7ada64/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/32e23dfadc3843c0b21de8427b55a34c
+            [checkoutId] => 32e23dfadc3843c0b21de8427b55a34c
+            [clientReference] => seed-6878025f10591
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/32e23dfadc3843c0b21de8427b55a34c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/66f50a87432c44ae82236f070578feed
+            [checkoutId] => 66f50a87432c44ae82236f070578feed
+            [clientReference] => seed-687802606ee54
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/66f50a87432c44ae82236f070578feed/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/ea81b9c67b5741b8bf634da8f57f5ee1
+            [checkoutId] => ea81b9c67b5741b8bf634da8f57f5ee1
+            [clientReference] => seed-687802660fada
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/ea81b9c67b5741b8bf634da8f57f5ee1/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/56556462378e426b8b1fd2a40b38db95
+            [checkoutId] => 56556462378e426b8b1fd2a40b38db95
+            [clientReference] => seed-6878026d222fd
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/56556462378e426b8b1fd2a40b38db95/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/250c23ca723a42aeb7f3552869028828
+            [checkoutId] => 250c23ca723a42aeb7f3552869028828
+            [clientReference] => seed-6878279470197
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/250c23ca723a42aeb7f3552869028828/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/2f72f735f9ef4b54bd51919ce1ef558c
+            [checkoutId] => 2f72f735f9ef4b54bd51919ce1ef558c
+            [clientReference] => seed-68797c01c7f17
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/2f72f735f9ef4b54bd51919ce1ef558c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/de9181c6fb554c258d49dc8cfb22884c
+            [checkoutId] => de9181c6fb554c258d49dc8cfb22884c
+            [clientReference] => seed-687994d7dad96
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/de9181c6fb554c258d49dc8cfb22884c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/3e1eb1ae2f144033b7e24466626c85b2
+            [checkoutId] => 3e1eb1ae2f144033b7e24466626c85b2
+            [clientReference] => seed-68799a13bc55e
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/3e1eb1ae2f144033b7e24466626c85b2/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/4a3a3996867f4d879dfd01c7deb8770c
+            [checkoutId] => 4a3a3996867f4d879dfd01c7deb8770c
+            [clientReference] => seed-688faa7c4e416
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/4a3a3996867f4d879dfd01c7deb8770c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/fda9edd46fa9480e9b028638e46e1c25
+            [checkoutId] => fda9edd46fa9480e9b028638e46e1c25
+            [clientReference] => seed-68967169c4e11
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/fda9edd46fa9480e9b028638e46e1c25/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/628ded10720f47f99e097e50054050f8
+            [checkoutId] => 628ded10720f47f99e097e50054050f8
+            [clientReference] => seed-689e449d3caa0
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/628ded10720f47f99e097e50054050f8/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/770663267d5c495587988df1408b264a
+            [checkoutId] => 770663267d5c495587988df1408b264a
+            [clientReference] => seed-68a778983552b
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/770663267d5c495587988df1408b264a/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/d784001f18104901ad803367aa90b08a
+            [checkoutId] => d784001f18104901ad803367aa90b08a
+            [clientReference] => seed-68a7789a36317
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/d784001f18104901ad803367aa90b08a/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/6c8fbcec74f04a0b85fc766639459628
+            [checkoutId] => 6c8fbcec74f04a0b85fc766639459628
+            [clientReference] => seed-68c580c556659
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/6c8fbcec74f04a0b85fc766639459628/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/70a169109da0478a9c3678d71398b914
+            [checkoutId] => 70a169109da0478a9c3678d71398b914
+            [clientReference] => seed-68c83f18747cb
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/70a169109da0478a9c3678d71398b914/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/1fbd58c7042c4b7386c0a91f6906c32f
+            [checkoutId] => 1fbd58c7042c4b7386c0a91f6906c32f
+            [clientReference] => seed-68c92e3b4d7e1
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/1fbd58c7042c4b7386c0a91f6906c32f/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/5198ec8b27574c8c96803f94544a8f6b
+            [checkoutId] => 5198ec8b27574c8c96803f94544a8f6b
+            [clientReference] => seed-68cc8c2183805
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/5198ec8b27574c8c96803f94544a8f6b/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/9838a9c15c4445369c95c06e2137a737
+            [checkoutId] => 9838a9c15c4445369c95c06e2137a737
+            [clientReference] => seed-68cf52ee1dad3
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/9838a9c15c4445369c95c06e2137a737/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/539a5eb95979496bb0eb5cb0094b489a
+            [checkoutId] => 539a5eb95979496bb0eb5cb0094b489a
+            [clientReference] => seed-68d1952e14894
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/539a5eb95979496bb0eb5cb0094b489a/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/5154e23d24544f69aee7edd900a22951
+            [checkoutId] => 5154e23d24544f69aee7edd900a22951
+            [clientReference] => seed-68d195a425616
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/5154e23d24544f69aee7edd900a22951/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/3f5403224b5f4f57b42d87f42ac1526d
+            [checkoutId] => 3f5403224b5f4f57b42d87f42ac1526d
+            [clientReference] => seed-68d42afee4a2c
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/3f5403224b5f4f57b42d87f42ac1526d/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/e6c89f1d5d0f489a9ba2dc063bafaf81
+            [checkoutId] => e6c89f1d5d0f489a9ba2dc063bafaf81
+            [clientReference] => seed-68d5f2381f788
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/e6c89f1d5d0f489a9ba2dc063bafaf81/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/f439f40468634380a0c7af0271d98e1c
+            [checkoutId] => f439f40468634380a0c7af0271d98e1c
+            [clientReference] => seed-68dc3feb71923
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/f439f40468634380a0c7af0271d98e1c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/1b7ecc640ab74cf49f87e189c5fc63f2
+            [checkoutId] => 1b7ecc640ab74cf49f87e189c5fc63f2
+            [clientReference] => seed-68e57a1d8febd
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/1b7ecc640ab74cf49f87e189c5fc63f2/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/71664a03e8df459b84bfa838655b385c
+            [checkoutId] => 71664a03e8df459b84bfa838655b385c
+            [clientReference] => seed-68ed9684bd384
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/71664a03e8df459b84bfa838655b385c/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/bf8c0f9428cb445d8118a46d2ad1e970
+            [checkoutId] => bf8c0f9428cb445d8118a46d2ad1e970
+            [clientReference] => seed-694c94e68a7e9
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/bf8c0f9428cb445d8118a46d2ad1e970/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/2ba8dcab1c314312ad7afcf415d8b8d0
+            [checkoutId] => 2ba8dcab1c314312ad7afcf415d8b8d0
+            [clientReference] => seed-694dfe30c86fe
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/2ba8dcab1c314312ad7afcf415d8b8d0/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/906846ee373f4dd6bd382f88e3f46c10
+            [checkoutId] => 906846ee373f4dd6bd382f88e3f46c10
+            [clientReference] => seed-69511be59b8dc
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/906846ee373f4dd6bd382f88e3f46c10/direct
+        )
+
+)
+
+Array
+(
+    [responseCode] => 0000
+    [status] => Success
+    [data] => Array
+        (
+            [checkoutUrl] => https://pay.hubtel.com/f0fca0b826054a27963548a892f4137a
+            [checkoutId] => f0fca0b826054a27963548a892f4137a
+            [clientReference] => seed-6963d073b4521
+            [message] => 
+            [checkoutDirectUrl] => https://pay.hubtel.com/f0fca0b826054a27963548a892f4137a/direct
+        )
+
+)
+

@@ -1,0 +1,48 @@
+{
+  "name": "Glorious Visions Tv Plus",
+  "short_name": "Glorious Visions",
+  "description": "A Television Network for Christian content that seeks to edify and educate individuals about the last days and coming Kingdom of Christ.",
+  "start_url": "https://gloriousvisionstvplus.com/",
+  "scope": "https://gloriousvisionstvplus.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "id": "https://gloriousvisionstvplus.com/",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "en",
+  "categories": ["entertainment", "video", "religion"],
+  "icons": [
+    {
+      "src": "/assets/TvLogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/TvLogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot1.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/assets/screenshot2.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "iarc_rating_id": "e10plus",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope_extensions": [],
+  "background_sync": true,
+  "gcm_sender_id": "103953800507"
+}

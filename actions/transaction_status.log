@@ -1,0 +1,275 @@
+{
+    "timestamp": "2025-07-08 15:34:26",
+    "clientReference": "seed-1234567890123",
+    "response": null
+}
+{
+    "timestamp": "2025-07-08 15:35:15",
+    "clientReference": "seed-68508b0959e0f",
+    "response": null
+}
+{
+    "timestamp": "2025-07-08 15:35:21",
+    "clientReference": "seed-68508b0959e0f",
+    "response": null
+}
+{
+    "timestamp": "2025-07-08 15:35:23",
+    "clientReference": "seed-68508b0959e0f",
+    "response": null
+}
+{
+    "timestamp": "2025-07-08 15:37:36",
+    "clientReference": "seed-68508b0959e0f",
+    "httpCode": 403,
+    "response": null,
+    "rawResponse": "<html>\r\n<head><title>403 Forbidden<\/title><\/head>\r\n<body>\r\n<center><h1>403 Forbidden<\/h1><\/center>\r\n<\/body>\r\n<\/html>\r\n"
+}
+{
+    "timestamp": "2025-07-08 15:37:36",
+    "clientReference": "seed-68508b0959e0f",
+    "error": {
+        "status": "error",
+        "message": "Status check failed",
+        "httpCode": 403
+    }
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}
+{
+    "message": "Successful",
+    "responseCode": "0000",
+    "data": {
+        "date": "2025-07-05T01:38:42.6501664Z",
+        "status": "Paid",
+        "transactionId": "22156ff67d954c2ab0109f2072422d60",
+        "externalTransactionId": "60505449189",
+        "paymentMethod": "mobilemoney",
+        "clientReference": "seed-686881f3879ba",
+        "currencyCode": null,
+        "amount": 20.5,
+        "charges": 0.5,
+        "amountAfterCharges": 20,
+        "isFulfilled": false
+    }
+}
+{
+    "message": "Successful",
+    "responseCode": "0000",
+    "data": {
+        "date": "2025-07-05T01:38:42.6501664Z",
+        "status": "Paid",
+        "transactionId": "22156ff67d954c2ab0109f2072422d60",
+        "externalTransactionId": "60505449189",
+        "paymentMethod": "mobilemoney",
+        "clientReference": "seed-686881f3879ba",
+        "currencyCode": null,
+        "amount": 20.5,
+        "charges": 0.5,
+        "amountAfterCharges": 20,
+        "isFulfilled": false
+    }
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 401
+}
+{
+    "status": "error",
+    "message": "Status check failed",
+    "httpCode": 403
+}

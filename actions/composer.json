@@ -1,0 +1,10 @@
+{
+    "name": "newjerusalem/backend",
+    "description": "New Jerusalem Genration",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "ovac/hubtel-payment": "^1.0"
+    }
+}

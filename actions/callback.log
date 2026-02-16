@@ -1,0 +1,912 @@
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 47b6fbd2433a4c798ddc9305ec42c56d
+            [SalesInvoiceId] => bfa101e677134a6cad0667615048d032
+            [ClientReference] => seed-68508b0959e0f
+            [Status] => Success
+            [Amount] => 1.01
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 4b6c3535e0404fe7802e20fbc56e2f9d
+            [SalesInvoiceId] => 6a3571dcd0064748a3db7392871b8c05
+            [ClientReference] => seed-68517d8f99cac
+            [Status] => Success
+            [Amount] => 1.01
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 22156ff67d954c2ab0109f2072422d60
+            [SalesInvoiceId] => 8ac11dcbe7274f59af10f9e1d936efc4
+            [ClientReference] => seed-686881f3879ba
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233245122552
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233245122552
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 2001
+    [Status] => Failed
+    [Data] => Array
+        (
+            [CheckoutId] => 11f2f266d363485da88c103e3eb851e3
+            [SalesInvoiceId] => dd14dd46498d4870947f8f83d50b6349
+            [ClientReference] => seed-686d2b598a299
+            [Status] => Failed
+            [Amount] => 10.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => FAILED
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 2001
+    [Status] => Failed
+    [Data] => Array
+        (
+            [CheckoutId] => 254c5546ee7a4d408444e9804665f828
+            [SalesInvoiceId] => d2452878e27d401290bc4c624e451123
+            [ClientReference] => seed-686d2e0433383
+            [Status] => Failed
+            [Amount] => 0.02
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash failed
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 27bd3a7d2fad406597fd9003c0011b54
+            [SalesInvoiceId] => 2e8168eb73f1451b9af526320e25c27b
+            [ClientReference] => seed-686d39619cba6
+            [Status] => Success
+            [Amount] => 0.02
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 7a1e4f675150475ca94afac644c34ce9
+            [SalesInvoiceId] => c44ceee46566406397c79f6f562ff40c
+            [ClientReference] => seed-686d3b8c93c33
+            [Status] => Success
+            [Amount] => 0.02
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 71dafe905f924ffb92440ddc85a44d32
+            [SalesInvoiceId] => 5a5a8a049b444a2cb0aa3993bec2e5d6
+            [ClientReference] => seed-686d3cce279a7
+            [Status] => Success
+            [Amount] => 0.02
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 085fe33fa810458a88989f0fdae2628e
+            [SalesInvoiceId] => a941f9679a704ccda086ce0228b61780
+            [ClientReference] => seed-686d3e291582b
+            [Status] => Success
+            [Amount] => 0.02
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 4175ee2ac0444662a1541df12bfcf3bc
+            [SalesInvoiceId] => 50c2fb24537d47ada111b441890bd521
+            [ClientReference] => seed-6871c4297cd3e
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 142e14d94dc74abbb5af86ec75317494
+            [SalesInvoiceId] => fd102bc8943847bdab2935f3799c7ceb
+            [ClientReference] => seed-6871c4f87f76f
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233245122552
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233245122552
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => d87cfe8671cd4e0dab5e707c696ad494
+            [SalesInvoiceId] => 84e2c80da3b94276a9c1bec51f2099e5
+            [ClientReference] => seed-6871c955850c0
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233549231057
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233549231057
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => a1737a751599453d977aba492e006fa5
+            [SalesInvoiceId] => 69f5e4ad562a4f58a5b23411421abd01
+            [ClientReference] => seed-6878024789e81
+            [Status] => Success
+            [Amount] => 50.5
+            [CustomerPhoneNumber] => 233245122552
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233245122552
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 56556462378e426b8b1fd2a40b38db95
+            [SalesInvoiceId] => 992670830077491b9940129481747846
+            [ClientReference] => seed-6878026d222fd
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233555153335
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233555153335
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => efbc2bb51ede4521acfcbc6b7c7ada64
+            [SalesInvoiceId] => 360a89d4922f4c139785ca8497599a9a
+            [ClientReference] => seed-68780257760a0
+            [Status] => Success
+            [Amount] => 30.5
+            [CustomerPhoneNumber] => 233268349376
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233268349376
+                    [PaymentType] => mobilemoney
+                    [Channel] => tigo-gh
+                )
+
+            [Description] => You have paid GHS30.50 to InvDebit in reference to 19814CA6D8A218795763. Your new balance is GHS473.7939. Trans ID: MP250716.1951.A09773 E-Levy:GHS0.00
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => ea81b9c67b5741b8bf634da8f57f5ee1
+            [SalesInvoiceId] => 54ec51758805432aa9281b8658f9cc80
+            [ClientReference] => seed-687802660fada
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 2001
+    [Status] => Failed
+    [Data] => Array
+        (
+            [CheckoutId] => 32e23dfadc3843c0b21de8427b55a34c
+            [SalesInvoiceId] => 35d0d561e2014fae903a5cc7f1a81c10
+            [ClientReference] => seed-6878025f10591
+            [Status] => Failed
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233202519999
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202519999
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => FAILED
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 2f72f735f9ef4b54bd51919ce1ef558c
+            [SalesInvoiceId] => 6402c0fee0c64175a3a0d51308195154
+            [ClientReference] => seed-68797c01c7f17
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233555153335
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233555153335
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => de9181c6fb554c258d49dc8cfb22884c
+            [SalesInvoiceId] => e7fbd549de7c445f85f2884d48f11761
+            [ClientReference] => seed-687994d7dad96
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => fda9edd46fa9480e9b028638e46e1c25
+            [SalesInvoiceId] => 1ac4be9c61a8483b9c548df78b408601
+            [ClientReference] => seed-68967169c4e11
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233245122552
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233245122552
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 628ded10720f47f99e097e50054050f8
+            [SalesInvoiceId] => 3da2475560af4e2785cf1f2f6275b55c
+            [ClientReference] => seed-689e449d3caa0
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 2001
+    [Status] => Failed
+    [Data] => Array
+        (
+            [CheckoutId] => 770663267d5c495587988df1408b264a
+            [SalesInvoiceId] => 3f9b0e6e3e724a588ad838f99f50f7e8
+            [ClientReference] => seed-68a778983552b
+            [Status] => Failed
+            [Amount] => 10.1
+            [CustomerPhoneNumber] => 233540354183
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233540354183
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => Transaction Failed
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 6c8fbcec74f04a0b85fc766639459628
+            [SalesInvoiceId] => b421886a800f477fbb8e060c920329dc
+            [ClientReference] => seed-68c580c556659
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233249269452
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233249269452
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 70a169109da0478a9c3678d71398b914
+            [SalesInvoiceId] => af5288604ad5496ca5eda40220c763a0
+            [ClientReference] => seed-68c83f18747cb
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 1fbd58c7042c4b7386c0a91f6906c32f
+            [SalesInvoiceId] => 49e7529cd7b0451e83a1042818e292e0
+            [ClientReference] => seed-68c92e3b4d7e1
+            [Status] => Success
+            [Amount] => 102.01
+            [CustomerPhoneNumber] => 233555153335
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233555153335
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 5198ec8b27574c8c96803f94544a8f6b
+            [SalesInvoiceId] => 8adf5808eb51436bbc257d572338d9c4
+            [ClientReference] => seed-68cc8c2183805
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 9838a9c15c4445369c95c06e2137a737
+            [SalesInvoiceId] => d820a04a5b2b42bab8efe633885a5b59
+            [ClientReference] => seed-68cf52ee1dad3
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233209186858
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233209186858
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 5154e23d24544f69aee7edd900a22951
+            [SalesInvoiceId] => c48fc88f1d4c44dda1294a91d6708a7a
+            [ClientReference] => seed-68d195a425616
+            [Status] => Success
+            [Amount] => 303
+            [CustomerPhoneNumber] => 233537260905
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233537260905
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 2001
+    [Status] => Failed
+    [Data] => Array
+        (
+            [CheckoutId] => 539a5eb95979496bb0eb5cb0094b489a
+            [SalesInvoiceId] => 0463370fbd0f4446baa370620e4f2fb5
+            [ClientReference] => seed-68d1952e14894
+            [Status] => Failed
+            [Amount] => 202
+            [CustomerPhoneNumber] => 233537260905
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233537260905
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => Transaction Failed
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 3f5403224b5f4f57b42d87f42ac1526d
+            [SalesInvoiceId] => 1dc77adea9f34cfbbe73dd241a699612
+            [ClientReference] => seed-68d42afee4a2c
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233209806576
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233209806576
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => e6c89f1d5d0f489a9ba2dc063bafaf81
+            [SalesInvoiceId] => 65c0bb8c42694eea85720a5436ac9687
+            [ClientReference] => seed-68d5f2381f788
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233249269452
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233249269452
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => f439f40468634380a0c7af0271d98e1c
+            [SalesInvoiceId] => 0672debbe66645c38338b56ade5047cb
+            [ClientReference] => seed-68dc3feb71923
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233201782888
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233201782888
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 1b7ecc640ab74cf49f87e189c5fc63f2
+            [SalesInvoiceId] => 4d9afb27f26141de8dbb6296406c63ea
+            [ClientReference] => seed-68e57a1d8febd
+            [Status] => Success
+            [Amount] => 101
+            [CustomerPhoneNumber] => 233201782888
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233201782888
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 71664a03e8df459b84bfa838655b385c
+            [SalesInvoiceId] => 0cbc274e4fa24ba6abeae4ad9c94782e
+            [ClientReference] => seed-68ed9684bd384
+            [Status] => Success
+            [Amount] => 151.5
+            [CustomerPhoneNumber] => 233202260756
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233202260756
+                    [PaymentType] => mobilemoney
+                    [Channel] => vodafone-gh
+                )
+
+            [Description] => The Vodafone Cash payment has been approved and processed successfully
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => bf8c0f9428cb445d8118a46d2ad1e970
+            [SalesInvoiceId] => 335a38b11a50406dbb2f2061b3cfdb72
+            [ClientReference] => seed-694c94e68a7e9
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 2ba8dcab1c314312ad7afcf415d8b8d0
+            [SalesInvoiceId] => 73049e38e872421899582ee4eb9ea398
+            [ClientReference] => seed-694dfe30c86fe
+            [Status] => Success
+            [Amount] => 5.1
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => 906846ee373f4dd6bd382f88e3f46c10
+            [SalesInvoiceId] => 0d2b3086e6324c608c4b8ba68dc9b68c
+            [ClientReference] => seed-69511be59b8dc
+            [Status] => Success
+            [Amount] => 20.5
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+
+Array
+(
+    [ResponseCode] => 0000
+    [Status] => Success
+    [Data] => Array
+        (
+            [CheckoutId] => f0fca0b826054a27963548a892f4137a
+            [SalesInvoiceId] => f81556dcae1740f085f9ef3b614000d4
+            [ClientReference] => seed-6963d073b4521
+            [Status] => Success
+            [Amount] => 10.1
+            [CustomerPhoneNumber] => 233539893025
+            [PaymentDetails] => Array
+                (
+                    [MobileMoneyNumber] => 233539893025
+                    [PaymentType] => mobilemoney
+                    [Channel] => mtn-gh
+                )
+
+            [Description] => The MTN Mobile Money payment has been approved and processed successfully.
+        )
+
+)
+

@@ -1,0 +1,5 @@
+[10-Jul-2025 14:09:25 UTC] Error executing payment: Undefined method [ clientReference] called.
+[10-Jul-2025 14:28:57 UTC] PHP Deprecated:  http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated in /home/u986208592/domains/gloriousvisionstvplus.com/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 445
+[10-Jul-2025 14:29:12 UTC] Error executing payment: Server error: `POST https://api.hubtel.com/v1/merchantaccount/merchants/2030422/receive/mobilemoney?CustomerName=Test%20User&CustomerMsisdn=233202260756&Amount=1&PrimaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&Description=Test%20Payment&Channel=mtn-gh&CustomerEmail=test%40example.com&SecondaryCallbackURL=https%3A%2F%2Fgloriousvisionstvplus.com%2Factions%2Fpayment_callback.php&ClientReference=test-686fce298c45c` resulted in a `520 ` response:
+error code: 520
+
