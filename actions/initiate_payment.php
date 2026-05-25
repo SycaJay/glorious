@@ -7,7 +7,7 @@ header('Pragma: no-cache');
 header('Expires: 0');
 
 // Replace with your actual LIVE Paystack secret key
-$secret_key = 'sk_live_d35382a21a03bd28a6ed4bc0417152c06289a135'; // TODO: Update with your actual LIVE secret key
+$secret_key = '....5'; // TODO: Update with your actual LIVE secret key
 
 // Get the raw POST data
 $input = file_get_contents('php://input');
